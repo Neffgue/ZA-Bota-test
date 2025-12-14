@@ -1,0 +1,4 @@
+aiogram>=3.23.0
+aiosqlite>=0.22.0
+pydantic-settings>=2.12.0
+openai>=2.6.1
